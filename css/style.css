@@ -1,0 +1,124 @@
+.top{
+	padding-top: 20px;
+
+}
+
+.navbar-default{
+	background-color: #ed6173;
+	opacity: 70%;
+}
+.navtext{
+	color:white;
+}
+.headerTop{
+	
+	
+	background-position: left;
+	width:100%;
+	min-height: 190px;
+}
+.header{
+
+	background-color: #fff;
+	width: 100%;
+}
+.logo{
+	padding-left: 10%;
+	padding-top: 2%;
+
+}
+.right{
+	float: right;
+	
+}
+.about{
+	padding-top: 250px;
+}
+.us{
+	padding-left: 20px;
+	align-content: center;
+}
+.container{
+	padding-left:5%;
+}
+.aboutimage{
+	float: left;
+	
+}
+.products{
+	padding-top: 70px;
+}
+.info{
+	background-color: #ddd;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	margin-top: 100px;
+}
+.info2{
+	text-align: center;
+	padding-top: 100px;
+}
+.info3{
+	text-align: left;
+	padding-top: 150px;
+	max-width: 400px;
+}
+.advertise{
+	padding-top: 200px;
+}
+.partners{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.apps{
+	padding-top: 80px;
+}
+.contact>p{
+	padding-left: 40px;
+	padding-top: 5px;
+}
+
+
+.contact>span>i{
+	font-size: 40px;
+	margin-right: 8px;
+	margin-top: 8px;
+	position: absolute;
+}
+
+
+.navbar {
+	position: relative;
+	min-height: 50px;
+	margin-bottom: 0px;
+	border: 1px solid transparent;
+}
+
+
+
+footer{
+	background-color: #36383a;
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.yellow{
+	color:yellow;
+}
+
+.brand{
+	padding-top: 30px;
+}
+.location>span>i{
+	font-size: 40px;
+	margin-right: 8px;
+	margin-top: 8px;
+	position: absolute;
+}
+.links>a{
+	text-decoration-style: none;
+	color: white;
+	font-size: 17px;
+	
+}
