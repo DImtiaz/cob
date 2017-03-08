@@ -2,10 +2,19 @@
 	padding-top: 20px;
 
 }
+.topbackground{
+	background-color: #cbced3;
+	width: 100%;
+	min-height: 200px;
+	position: absolute;
+}
 
 .navbar-default{
 	background-color: #ed6173;
 	opacity: 70%;
+}
+.navbar-custom{
+	margin-top: 15px;
 }
 .navtext{
 	color:white;
@@ -22,9 +31,13 @@
 	background-color: #fff;
 	width: 100%;
 }
+.headerimage{
+	position: absolute;
+}
 .logo{
 	padding-left: 10%;
 	padding-top: 2%;
+	position: absolute;
 
 }
 .right{
@@ -90,7 +103,7 @@
 
 .navbar {
 	position: relative;
-	min-height: 50px;
+	min-height: 40px;
 	margin-bottom: 0px;
 	border: 1px solid transparent;
 }
@@ -121,4 +134,72 @@ footer{
 	color: white;
 	font-size: 17px;
 	
+}
+#parallelogram {
+	width: 450px;
+	height: 153px;
+	-webkit-transform: skew(30deg);
+	   -moz-transform: skew(30deg);
+	     -o-transform: skew(30deg);
+	background: #eaedef;
+	position: absolute;
+}
+.test{
+	background-color: white;
+	position: relative;
+	padding-top: 40px;
+	padding-left: 190px;
+	background-color: transparent;
+}
+.leftimg{
+	position:absolute;
+	top: 0;
+	left: 0;
+	height: 180px;
+}
+.topbackground{
+	background-color: #caccce;
+	width: 100%;
+	min-height: 153px;
+	position: absolute;
+}
+.topinfo{
+	width: 100%;
+	height: 60px;
+	background-color: white;
+	position: absolute;
+	margin-top: 70px;
+}
+.topmargin{
+	
+}
+.top{
+	padding-top: 26px;
+
+}
+.topcontent{
+	padding-top: 40px;
+	margin-left: 140px;
+
+
+}
+
+.topcontact{
+	margin-top: 80px;
+	padding-bottom: 10px;
+
+}
+.contact>p{
+	padding-left: 40px;
+	padding-top: 5px;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+
+.contact>span>i{
+	font-size: 40px;
+	margin-right: 8px;
+	margin-top: 0px;
+	position: absolute;
 }
